@@ -2,4 +2,4 @@
 Hackathon team repository for D-crypt - [hackindia-team:hackindia-spark-6-ncr-central-region:d-crypt]
 
 
-Authors - Shashwat, Suyash, Soumya
+Authors - Shashwat Verma, Suyash Khare, Soumya Pal
